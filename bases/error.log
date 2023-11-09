@@ -1,0 +1,6 @@
+{"level":"error","message":"error Esto es algo malo","service":"app.js"}
+{"at":"2023-11-08T05:26:22.480Z","level":"error","message":"error Esto es algo malo","service":"app.js"}
+{"at":"2023-11-08T05:27:40.034Z","level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2023-11-08T05:27:40.034Z"}
+{"at":"2023-11-08T21:06:43.557Z","level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2023-11-08T21:06:43.557Z"}
+{"at":"2023-11-09T05:34:39.873Z","level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2023-11-09T05:34:39.873Z"}
+{"at":"2023-11-09T05:36:59.107Z","level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2023-11-09T05:36:59.107Z"}
