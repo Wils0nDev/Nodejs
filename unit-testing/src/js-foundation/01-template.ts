@@ -4,4 +4,3 @@ export const emailTemplate = `
    <p>Thank you for you order.</p> 
    <p>Order ID : {{OrderId}}</p>
 </div>` ;
-console.log(emailTemplate);

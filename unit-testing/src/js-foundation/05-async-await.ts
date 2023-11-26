@@ -15,7 +15,6 @@ export const getPokemonById = async (id:number) =>{
 
     const url = `https://pokeapi.co/api/v2/pokemon/${id}`;
     const pokemon = await http.get(url)
-    console.log(pokemon.data.name)
     return pokemon
 }
 
